@@ -1,0 +1,51 @@
+
+5월 01, 2019 15:25:51.78 NEW SESSION
+5월 01, 2019 15:25:51.78 [11588:29160:0501/152551.778:ERROR:http_bridge.cc(126)] NOT IMPLEMENTED
+5월 01, 2019 15:25:51.84 [11588:24288:0501/152551.839:ERROR:service_manager_context.cc(242)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\73.0.3683.103\content_browser.service.exe
+5월 01, 2019 15:25:51.84 [11588:24288:0501/152551.841:ERROR:service_manager_context.cc(242)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\73.0.3683.103\content_browser.service.exe
+5월 01, 2019 15:25:51.84 [11588:24288:0501/152551.843:ERROR:service_manager_context.cc(242)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\73.0.3683.103\content_browser.service.exe
+5월 01, 2019 15:25:51.84 [11588:24288:0501/152551.845:ERROR:service_manager_context.cc(242)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\73.0.3683.103\content_browser.service.exe
+5월 01, 2019 15:25:51.84 [11588:24288:0501/152551.848:ERROR:service_manager_context.cc(242)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\73.0.3683.103\content_browser.service.exe
+5월 01, 2019 15:25:51.85 [11588:24288:0501/152551.851:ERROR:service_manager_context.cc(242)] Attempting to run unsupported native service: C:\Program Files (x86)\Google\Chrome\Application\73.0.3683.103\content_browser.service.exe
+5월 01, 2019 15:25:51.88 [11588:24288:0501/152551.889:ERROR:browser_process_sub_thread.cc(209)] Waited 28 ms for network service
+5월 01, 2019 15:25:51.96 
+5월 01, 2019 15:25:51.97 KLIB_SelfTest return : KLR_OK
+5월 01, 2019 15:55:31.78 [27948:11032:0501/155531.781:ERROR:platform_sensor_reader_win.cc(243)] NOT IMPLEMENTED
+5월 01, 2019 22:39:47.87 [27948:29032:0501/223947.868:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+5월 01, 2019 22:39:47.87 [27948:25956:0501/223947.870:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+5월 01, 2019 22:39:55.10 [27948:26748:0501/223955.099:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+5월 01, 2019 22:39:57.41 [27948:26748:0501/223957.417:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+5월 02, 2019 08:47:03.73 [27948:25956:0502/084703.726:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+5월 02, 2019 08:47:03.82 [27948:29032:0502/084703.823:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+5월 02, 2019 08:47:04.21 [27948:26748:0502/084704.209:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+5월 02, 2019 09:07:34.93 [27948:29032:0502/090734.930:ERROR:CONSOLE(0)] "Access to XMLHttpRequest at 'https://play.google.com/log?format=json&hasfast=true&authuser=0' from origin 'chrome-search://local-ntp' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: The 'Access-Control-Allow-Origin' header has a value 'http://play.google.com' that is not equal to the supplied origin.", source: chrome-search://local-ntp/local-ntp.html (0)
+5월 02, 2019 09:26:47.38 [27948:26748:0502/092647.379:ERROR:socket_stream.cc(219)] Closing stream with result -2
+5월 02, 2019 09:53:35.49 [27948:26748:0502/095335.489:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+5월 02, 2019 09:54:02.66 [27948:26748:0502/095402.660:ERROR:socket_stream.cc(219)] Closing stream with result -2
+5월 02, 2019 09:54:02.66 [27948:26748:0502/095402.662:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -109
+5월 02, 2019 09:54:07.99 [27948:26748:0502/095407.995:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+5월 02, 2019 09:55:12.74 [27948:26748:0502/095512.743:ERROR:socket_stream.cc(219)] Closing stream with result -2
+5월 02, 2019 09:55:12.93 [27948:26748:0502/095512.938:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+5월 02, 2019 09:55:27.03 [27948:26748:0502/095527.030:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+
+5월 03, 2019 20:40:55.60 NEW SESSION
+5월 03, 2019 20:40:55.60 [13952:25668:0503/204054.532:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+5월 03, 2019 20:40:55.60 [13952:28340:0503/204054.532:ERROR:checkin_request.cc(219)] Failed to get checkin response. Fetcher failed. Retrying.
+5월 03, 2019 20:40:55.60 [13952:28340:0503/204054.577:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+5월 03, 2019 20:41:02.64 [13952:25560:0503/204102.639:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+5월 03, 2019 20:41:18.17 [13952:25668:0503/204118.174:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+5월 03, 2019 20:41:23.25 [13952:28340:0503/204123.253:ERROR:checkin_request.cc(219)] Failed to get checkin response. Fetcher failed. Retrying.
+5월 03, 2019 20:41:24.19 [13952:28340:0503/204124.197:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+5월 03, 2019 23:04:28.45 [13952:28340:0503/230428.453:ERROR:socket_stream.cc(219)] Closing stream with result -2
+5월 03, 2019 23:04:28.52 [13952:25668:0503/230428.528:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+5월 03, 2019 23:04:28.55 [13952:28340:0503/230428.552:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+5월 03, 2019 23:04:35.39 [13952:28340:0503/230435.392:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+5월 03, 2019 23:24:21.11 [13952:28340:0503/232421.113:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -21
+5월 03, 2019 23:24:23.29 [13952:28340:0503/232423.299:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+5월 03, 2019 23:25:08.27 [13952:28340:0503/232508.271:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+5월 03, 2019 23:26:40.21 [13952:28340:0503/232640.211:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+5월 03, 2019 23:29:21.21 [13952:28340:0503/232921.219:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+5월 03, 2019 23:35:54.40 [13952:28340:0503/233554.407:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+5월 03, 2019 23:45:54.41 [13952:28340:0503/234554.413:ERROR:connection_factory_impl.cc(411)] Failed to connect to MCS endpoint with error -106
+5월 03, 2019 23:52:24.94 [13952:30616:0503/235224.939:ERROR:platform_sensor_reader_win.cc(243)] NOT IMPLEMENTED
+5월 03, 2019 23:52:33.87 [13952:25668:0503/235233.872:ERROR:textfield.cc(1768)] NOT IMPLEMENTED

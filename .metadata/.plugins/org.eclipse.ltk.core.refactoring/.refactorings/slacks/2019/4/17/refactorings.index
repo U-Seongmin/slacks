@@ -1,0 +1,14 @@
+1555894573597	Rename type 'LoginCommon'
+1555910508438	Delete element
+1555913543387	Rename resource 'LoginForm.jsp'
+1555913551864	Rename resource 'LoginSuccess.jsp'
+1555941694986	Move 'loginForm.jsp' to 'webapp'
+1555941880233	Move 'loginForm.jsp' to 'login'
+1556016251623	Rename type 'AuthInfo'
+1556028724669	Rename resource 'sendSucess.jsp'
+1556028733806	Rename resource 'findSucess.jsp'
+1556070958962	Delete element
+1556070961244	Delete element
+1556104213952	Rename type 'FindPassword'
+1556104323804	Rename type 'FindPasswordToCheckEmail'
+1556104333223	Rename type 'CheckEmail'

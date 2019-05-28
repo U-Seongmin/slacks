@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Slacks\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2069045155.index
+384663471.index
+2694426083.index
+235667757.index
+778292843.index
+2850205310.index

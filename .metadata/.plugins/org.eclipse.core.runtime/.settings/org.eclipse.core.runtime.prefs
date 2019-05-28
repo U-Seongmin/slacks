@@ -1,0 +1,5 @@
+content-types/org.eclipse.core.runtime.text/charset=utf8
+content-types/org.eclipse.jdt.core.javaProperties/charset=utf8
+content-types/org.eclipse.jst.jsp.core.jspsource/charset=utf8
+content-types/org.eclipse.wst.xml.core.xmlsource/file-names=repository
+eclipse.preferences.version=1

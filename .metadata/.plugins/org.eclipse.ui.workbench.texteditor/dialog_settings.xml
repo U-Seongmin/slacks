@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="findEmail"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="findEmail"/>
+			<item value="email="/>
+			<item value="email"/>
+			<item value="mailsender"/>
+			<item value="javamail"/>
+			<item value="spring-con"/>
+			<item value="spring-context-sp"/>
+			<item value="spring-context-"/>
+			<item value="jackson"/>
+			<item value="springframe"/>
+			<item value="jdbc"/>
+			<item value="log4"/>
+			<item value="compiler"/>
+			<item value="common"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1150"/>
+		<item key="DIALOG_Y_ORIGIN" value="164"/>
+		<item key="DIALOG_WIDTH" value="340"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+</section>
