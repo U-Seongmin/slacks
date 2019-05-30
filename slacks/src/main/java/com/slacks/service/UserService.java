@@ -18,5 +18,5 @@ public interface UserService {
 	void changePassword(ChangePassword changePassword, String email) throws Exception;
 	
 	//file controller에서 사용하는 것들
-	String filedirectory(FileDownload fileDownload) throws Exception;
+	String findSelect(FileDownload fileDownload) throws Exception;
 }

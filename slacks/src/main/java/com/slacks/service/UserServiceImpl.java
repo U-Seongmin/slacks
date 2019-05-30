@@ -72,8 +72,9 @@ public class UserServiceImpl implements UserService {
 	}
 	
 	@Override
-	public String filedirectory(FileDownload fileDownload) throws Exception{
-		String directroy;
-		directory = userDAO.filedirectory(fileDownload.getPath());
+	public String findDirectory(FileDownload fileDownload) throws Exception{
+		String directory;
+		directory = userDAO.findDirectory(fileDownload);
+		return directory;
 	}
 }

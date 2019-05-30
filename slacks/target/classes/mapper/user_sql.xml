@@ -23,6 +23,17 @@
               email = #{email}
       ]]>
 	</select>
+	
+	<select id="findDirectory">
+		<![CDATA[
+			SELECT
+				path
+			FROM
+				files
+			WHERE
+				#
+		]]>
+	</select>
 
 	<insert id="register">
         <![CDATA[
