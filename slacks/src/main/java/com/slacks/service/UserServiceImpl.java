@@ -13,7 +13,6 @@ import com.slacks.utils.AuthInfoLogin;
 import com.slacks.utils.AuthInfoPass;
 import com.slacks.utils.ChangePassword;
 import com.slacks.utils.CheckEmail;
-import com.slacks.utils.FileDownload;
 import com.slacks.utils.InsertCode;
 import com.slacks.utils.LoginCommand;
 import com.slacks.utils.RegisterRequest;
@@ -70,11 +69,5 @@ public class UserServiceImpl implements UserService {
 		infoPass.setPassword(password);
 		userDAO.changePassword(infoPass);
 	}
-	
-	@Override
-	public String findDirectory(FileDownload fileDownload) throws Exception{
-		String directory;
-		directory = userDAO.findDirectory(fileDownload);
-		return directory;
-	}
+
 }

@@ -1,0 +1,12 @@
+package com.slacks.dao;
+
+import com.slacks.common.dao.AbstractDAO;
+import com.slacks.utils.FileDownload;
+
+@Repository("fileDAO")
+public class FileDAO extends AbstractDAO{
+	public String findDirectory(FileDownload fileDownload) {
+		fileDownload = select("user.findDirectory", fileDownload);
+		return directory;
+	}
+}

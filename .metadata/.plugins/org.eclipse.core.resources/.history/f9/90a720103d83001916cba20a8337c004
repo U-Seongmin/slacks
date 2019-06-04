@@ -1,0 +1,9 @@
+package com.slacks.service;
+
+import com.slacks.utils.FileBoardList;
+
+public interface FileService {
+	
+	String fileBoardList(FileBoardList fileBoardList) throws Exception;
+	
+}

@@ -1,0 +1,9 @@
+package com.slacks.service;
+
+import com.slacks.utils.FileDownload;
+
+public interface FileService {
+	
+	String fileSelect(FileDownload fileDownload) throws Exception;
+	
+}

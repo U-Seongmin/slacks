@@ -1,0 +1,13 @@
+package com.slacks.service;
+
+import com.slacks.utils.FileDownload;
+
+public class FileServiceImpl implements FileService{
+	
+	@Override
+	public String findDirectory(FileDownload fileDownload) throws Exception{
+		String directory;
+		directory = userDAO.findDirectory(fileDownload);
+		return directory;
+	}
+}

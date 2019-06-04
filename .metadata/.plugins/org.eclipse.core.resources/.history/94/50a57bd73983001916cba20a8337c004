@@ -1,0 +1,21 @@
+package com.slacks.service;
+
+import javax.annotation.Resource;
+
+import org.springframework.stereotype.Service;
+
+import com.slacks.dao.FileDAO;
+import com.slacks.utils.FileDownload;
+
+@Service("fileService")
+public class FileServiceImpl implements FileService{
+	@Resource(name = "fileDAO")
+	private FileDAO fileDAO;
+	
+	@Override
+	public String fileBoard(FileBoardList fileDownload) throws Exception{
+		String directory;
+		directory = fileDAO.findDirectory(fileDownload);
+		return directory;
+	}
+}

@@ -1,0 +1,5 @@
+package com.slacks.service;
+
+public class FileServiceImpl {
+
+}

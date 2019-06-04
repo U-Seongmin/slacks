@@ -17,7 +17,7 @@ public class RegisterRequest {
     
     @Column
     @NotEmpty(message="이름을 입력해주세요.")
-    @Pattern(regexp="\\S{2,8}", message="이름을 공백없이 2~6자로 입력해주세요.")
+    @Pattern(regexp="\\S{2,8}", message="이름을 공백없이 2~8자로 입력해주세요.")
     private String name;
     
     @Column

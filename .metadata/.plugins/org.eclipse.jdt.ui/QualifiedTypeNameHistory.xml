@@ -6,7 +6,6 @@
 <fullyQualifiedTypeName name="org.apache.commons.logging.Log"/>
 <fullyQualifiedTypeName name="org.apache.commons.logging.LogFactory"/>
 <fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
 <fullyQualifiedTypeName name="com.slacks.utils.RegisterRequest"/>
 <fullyQualifiedTypeName name="java.lang.Math"/>
@@ -50,4 +49,6 @@
 <fullyQualifiedTypeName name="org.hibernate.mapping.Map"/>
 <fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="com.slacks.service.FileService"/>
 </qualifiedTypeNameHistroy>
